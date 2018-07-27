@@ -1,4 +1,4 @@
-scratch-org-def: ./config/project-scratch-def.json
+scratch-org-def: sfdx-config/project-scratch-def.json
 assign-permset: false
 run-apex-tests: true
 delete-scratch-org: false
